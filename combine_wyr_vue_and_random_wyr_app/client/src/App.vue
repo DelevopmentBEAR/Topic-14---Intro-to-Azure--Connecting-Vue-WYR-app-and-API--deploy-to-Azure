@@ -41,7 +41,7 @@ function updateUserSelection(choice) {
 
 <template>
   <div id="app-component">
-  <h1>Would You Rather?</h1>
+  <h1>Hello! Would You Rather?</h1>
 
   <!-- Passes the question and answers as props to the WouldYouRather component -->
   <WouldYouRather 
